@@ -1,0 +1,40 @@
+{
+  "western": {
+    "smiley": {
+      "simple": ":)",
+      "simple-alt": ":-)",
+      "simple-square": ":]",
+      "simple-square-alt": ":-]",
+      "simple-nose": ":^)",
+      "double-chin": ":))",
+      "double-chin-nose": ":-))", 
+      "diabolical": ">:)"
+    },
+    "laughing": {
+      "simple": ":D",
+      "simple-alt": "=D",
+      "simple-x": "xD",
+      "simple-X": "XD",
+      "simple-x-nose": "X-D"
+    },
+    "sad": {
+      "simple": ":(",
+      "simple-nose": ":-("
+    },
+    "angry": {
+      "simple": ">:(",
+      "simple-nose": ">:-)"
+    },
+    "horror": {
+      "simple": "DX",
+      "anguish": ">_<",
+      "shock": "o_o"
+    },
+    "symbols": {
+      "heart": "<3",
+      "kiss": "xoxo",
+      "penis": "8====D",
+      "fish": "><>"
+    }
+  }
+}
